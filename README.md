@@ -5,10 +5,10 @@ This repository contains my certificate for successfully completing.
 Python Programming Training from CoDing SeeKho.
 
 ## ⚡ Training Details
-**Course:** Python Programming
-**Institute:** CoDing SeeKho
-**Duration:** 35 Hours
-**Date** 30 April 2026
+**• Course:** Python Programming
+**• Institute:** CoDing SeeKho
+**• Duration:** 35 Hours
+**• Date** 30 April 2026
 
 ## Skills Learned
 👉 Python Programming Fundamentals
